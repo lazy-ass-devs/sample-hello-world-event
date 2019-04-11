@@ -7,7 +7,7 @@ This is basic example of send-receive message queue
 ### Prerequisites
 * Composer
 * php
-* RabbitMQ
+* [RabbitMQ](https://www.rabbitmq.com/download.html)
 
 ### Installing
 git clone the project
