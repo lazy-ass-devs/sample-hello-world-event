@@ -32,4 +32,4 @@ php send.php
 
 
 Final output
-![FinalOutput](/images/3,JPG)
+![FinalOutput](/images/3.JPG)
