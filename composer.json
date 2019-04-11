@@ -1,0 +1,14 @@
+{
+    "name": "lazyassdevs/simple-event-hello-world",
+    "description": "Simple Hello World Event",
+    "type": "project",
+    "authors": [
+        {
+            "name": "LazyAssDevs",
+            "email": "lazyassdevs@gmail.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": ">=2.6.1"
+    }
+}
